@@ -27,4 +27,4 @@ Steps:
 
 The journey of the input video and different functionalities are illustrated in the workflow diagram below.
 
-![workflow diagram](./workflow diagram.png)
+![workflow diagram](https://github.com/Hmzbo/Football-Analytics-with-Deep-Learning-and-Computer-Vision/assets/62519374/8a934460-5f7f-4170-a2b2-d89c77fce2fe)
