@@ -1,0 +1,38 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+
+
+# Train/val/test sets 
+path: D:\Work\Machine Learning\Projects\Computer Vision\Football analytics ai powered web app\Datasets\field_yolo  # dataset root dir
+train: images/train/  # train images (relative to 'path') 
+val: images/val/  # val images (relative to 'path')
+
+# Classes
+names:
+  0: TLC
+  1: TRC
+  2: TR6MC
+  3: TL6MC
+  4: TR6ML
+  5: TL6ML
+  6: TR18MC
+  7: TL18MC
+  8: TR18ML
+  9: TL18ML
+  10: TRArc
+  11: TLArc
+  12: RML
+  13: RMC
+  14: LMC
+  15: LML
+  16: BLC
+  17: BRC
+  18: BR6MC
+  19: BL6MC
+  20: BR6ML
+  21: BL6ML
+  22: BR18MC
+  23: BL18MC
+  24: BR18ML
+  25: BL18ML
+  26: BRArc
+  27: BLArc

@@ -1,0 +1,13 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+
+
+# Train/val/test sets 
+path: D:\Work\Machine Learning\Projects\Computer Vision\Football analytics ai powered web app\Datasets\players  # dataset root dir
+train: images/train/  # train images (relative to 'path') 
+val: images/val/  # val images (relative to 'path')
+
+# Classes
+names:
+  0: player
+  1: referee
+  2: ball
